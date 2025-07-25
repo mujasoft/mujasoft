@@ -13,7 +13,7 @@ I build professional-grade tools for developers — fast, focused and powered by
 - Build CI/CD insights tools with Jenkins, GitHub Actions, and custom log pipelines
 - Simulate embedded environments (RTOS, memory pool allocators, etc.)
 
-### ⚙ Tools I Love
+### Tools I Love
 `Python` · `Typer` · `Rich` · `Dynaconf` · `GitPython` · `Ollama` · `Terraform` · `FFmpeg` · `Jenkins`
 
 
