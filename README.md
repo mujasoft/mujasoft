@@ -14,8 +14,7 @@ I build professional-grade tools for developers — fast, focused and powered by
 - Simulate embedded environments (RTOS, memory pool allocators, etc.)
 
 ### Tools I Love
-`Python` · `Typer` · `Rich` · `Dynaconf` · `GitPython` · `Ollama`  · `FFmpeg` · `Jenkins`
-
+`Python` `Jenkins` `Go` `C/C+` `Bash` `Docker` `Kubernetes` `ollama` `AI`  
 
 
 Always building. Always shipping.  
