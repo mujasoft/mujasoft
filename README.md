@@ -14,7 +14,7 @@ I build professional-grade tools for developers — fast, focused and powered by
 - Simulate embedded environments (RTOS, memory pool allocators, etc.)
 
 ### Tools I Love
-`Python` `Jenkins` `Go` `C/C+` `Bash` `Docker` `Kubernetes` `ollama` `AI`  
+`Python` `Jenkins` `Go` `C/C+` `Bash` `Docker` `ollama` `AI`  
 
 
 Always building. Always shipping.  
